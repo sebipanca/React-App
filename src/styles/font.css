@@ -1,0 +1,7 @@
+
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OpenSansRomanBold.ttf"); font-family : "Open Sans"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OverpassRomanBold.ttf"); font-family : "Overpass"; font-weight : 700;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OpenSansRomanRegular.ttf"); font-family : "Open Sans"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OverpassRomanExtraBold.ttf"); font-family : "Overpass"; font-weight : 800;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OverpassRomanRegular.ttf"); font-family : "Overpass"; font-weight : 400;  }
+ @font-face { font-display: swap; font-style : normal; src: url("assets/fonts/OpenSansRomanSemiBold.ttf"); font-family : "Open Sans"; font-weight : 600;  }
